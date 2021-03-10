@@ -16,7 +16,7 @@ if(userid != null){
 <html>
 <head>
 <meta charset="UTF-8">
-<title>영화 티켓 관리</title>
+<title>-영화 티켓 관리-</title>
 <link href="./resource/css/bootstrap.css" rel="stylesheet" type="text/css"/>
 <link href="./resource/css/style.css" rel="stylesheet" type="text/css"/>
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
