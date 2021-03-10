@@ -19,7 +19,7 @@
 		conn = DriverManager.getConnection(url, "root", "1234");
 		
 	} catch (Exception e) {
-		out.println("<h3>DB연결 실패</h3>");
+		out.println("<h3>DB연결실패</h3>");
 	    e.printStackTrace();
 	}
 %>
