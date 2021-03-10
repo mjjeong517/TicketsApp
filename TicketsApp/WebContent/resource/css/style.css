@@ -1,0 +1,20 @@
+@charset "UTF-8";
+section{margin:10px 0px;}
+.JoinSec{margin:20px 0px;}
+.table-wrap{margin:30px 0px;}
+.btn-mint{background:#77bbbb !important;color:#fff; width:20%;}
+.btn-pink{background:#ffa4d1 !important;color:#fff; width:20%;}
+.btn-mint:hover{background:#50a0a0 !important; color:#fff;}
+.btn-pink:hover{background:#ff7dbe !important; color:#fff;}
+#loginFrm{margin:30px 0px;}
+.form_wrap{
+	width:100%; padding:5%; 
+	max-height:350px;
+	margin:10px 0px;
+	border:1px solid #e6e6e6;
+}
+.form_wrap:hover{
+	box-shadow: 0px 0px 5px 2px rgba(100, 100, 100, .2);
+}
+select[name='tk_cnt'],input[name='tk_date'] {width:100%;}
+select[name='tk_cnt']{height:40px;}
